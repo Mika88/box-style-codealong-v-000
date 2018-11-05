@@ -54,6 +54,12 @@ figcaption {
 #details a:active {
    color:red;
 }
+/*///BACKGROUND///*/
+
+.white-wood {
+  background: url(../images/white-wood.jpg) no-repeat center top;
+  background-size: cover;
+}
 /*///MEDIA///*/
 img, video, audio {
   max-width: 100%;
@@ -137,4 +143,3 @@ section {
   height: 40px;
   background: yellow;
 }
-
