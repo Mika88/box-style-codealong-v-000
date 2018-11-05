@@ -151,6 +151,10 @@ img, video, audio {
 }
 /*///HEADER///*/
 
+header {
+  margin: 0 0 30px;
+}
+
 
 
 /*///LAYOUT///*/
